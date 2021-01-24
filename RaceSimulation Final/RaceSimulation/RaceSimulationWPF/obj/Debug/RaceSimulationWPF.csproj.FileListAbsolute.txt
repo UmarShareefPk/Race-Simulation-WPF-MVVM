@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\bin\Debug\RaceSimulationWPF.exe.config
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\bin\Debug\RaceSimulationWPF.exe
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\bin\Debug\RaceSimulationWPF.pdb
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\obj\Debug\RaceSimulationWPF.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\obj\Debug\App.g.cs
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\obj\Debug\RaceSimulationWPF_MarkupCompile.cache
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\obj\Debug\RaceSimulationWPF.g.resources
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\obj\Debug\RaceSimulationWPF.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\obj\Debug\RaceSimulationWPF.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\obj\Debug\RaceSimulationWPF.exe
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\obj\Debug\RaceSimulationWPF.pdb
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\bin\Debug\SwissTiming.Timing.AcquisitionSimulator.dll
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\bin\Debug\SwissTiming.Timing.AcquisitionSimulator.pdb
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\bin\Debug\SwissTiming.Timing.AcquisitionSimulator.xml
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\obj\Debug\View\RaceMain.g.cs
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\obj\Debug\View\RaceMain.baml
+C:\Users\LENOVO\source\repos\WpfControlLibrary1\RaceSimulationWPF\obj\Debug\RaceSimulationWPF.csproj.CopyComplete
